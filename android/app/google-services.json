@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6327197005",
+    "firebase_url": "https://my-portfolio-aaffe.firebaseio.com",
+    "project_id": "my-portfolio-aaffe",
+    "storage_bucket": "my-portfolio-aaffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6327197005:android:9b3327c15daab6ba",
+        "android_client_info": {
+          "package_name": "com.bar_code_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6327197005-4i1hvc0aq5oi4qkr8tusp59lk9t73rbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn8HCm-UDKZLYhmj5ODaJ631gnEoxk0LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6327197005-4i1hvc0aq5oi4qkr8tusp59lk9t73rbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
